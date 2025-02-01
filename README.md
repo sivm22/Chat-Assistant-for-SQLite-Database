@@ -45,7 +45,7 @@ A Python-based chat assistant that queries an SQLite database to provide informa
 
 ```json
 {
-  "query": "show me all employees in the Sales department"
+  "query": "show me all employees in the [Sales] department"
 }
 ```
 ## Example Response:
