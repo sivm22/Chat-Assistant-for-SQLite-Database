@@ -39,6 +39,10 @@ A Python-based chat assistant that queries an SQLite database to provide informa
    ```
    Access at http://127.0.0.1:5000/.
 
+
+4. Deployment link:
+   https://chat-assistant-for-sqlite-database-o4u3.onrender.com
+
  ## Example Query
 
 ### POST request to `/chat`:
